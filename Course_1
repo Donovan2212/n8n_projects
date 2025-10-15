@@ -1,6 +1,5 @@
 {
   "name": "Course 1",
-  "color": "#FF0000",
   "nodes": [
     {
       "parameters": {
